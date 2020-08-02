@@ -1,0 +1,4 @@
+# PythonDnsServerForLocalhost
+Python3的dns转发服务器，用到了google、tencent和cloudflare的httpdns解析，模拟了黑名单dns污染。
+
+暂时用json来保存而且手动Ctrl-C退出时保存。以后可能加一个Mysql的。
